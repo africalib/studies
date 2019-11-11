@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0 auto;
+            overflow: hidden;
+        }
+
+        .each {
+            padding: 50px 0;
+            color: #fff;
+            background: #3a3a3a;
+            text-align: center;
+            font-size: 42px;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="each">header</header>
+    <nav class="each">nav</nav>
+    <aside class="each" style="display:none;padding:270px 0;width:19.7%;float:right;">aside</aside>
+    <article class="each" style="display:inline-block;padding:270px 0;width:100%">article</article>
+    <footer class="each">footer</footer>
+    <script>
+        var eaches = document.getElementsByClassName('each');
+        for (i = 0; i < eaches.length; i += 1) {
+            eaches[i].addEventListener('click', function () {
+                    this.style.backgroundColor = '#004373'
+            });
+        }
+
+        document.addEventListener('keyup', function (e) {
+            if (e.keyCode === 13) {
+                var aside = document.getElementsByTagName('aside');
+                var article = document.getElementsByTagName('article');
+                aside[0].style.display = 'inline-block'
+                article[0].style.width = '80%';
+
+                for (i = 0; i < eaches.length; i += 1) {
+                    //eaches[i].style.background = '#3a3a3a';
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>
