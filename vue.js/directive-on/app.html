@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <div id="app">
+            <h1 v-if="visible">나는 보입니다.</h1>
+            <button @click="visible = !visible">버튼</button>
+            <hr />
+            <button @click="alert('버튼을 클릭했습니다.')">버튼</button>
+            <hr />
+            <button @dblclick="alert('더블 버튼을 클릭했습니다.')">버튼</button>
+            <button @click="add()">버튼</button>
+            <ul>
+                <li v-for="n in numbers">{{ n }}</li>
+            </ul>
+            <input type="text" v-model="animal" @keyup.enter="capture()">
+            <ul>
+                <li v-for="a in animals">{{ a }}</li>
+            </ul>
+        </div>
+        <script src="vue.js"></script>
+        <script>
+            // v-on
+            var app = new Vue({
+                el: '#app',
+                data: {
+                    visible: true,
+                    numbers: [1, 2, 3, 4, 5],
+                    animal: null,
+                    animals: ['lion', 'tiger', 'dog', 'cat', 'eagle']
+                },
+                methods: {
+                    add: function() {
+                        var lastNum = this.numbers[this.numbers.length - 1];
+                        lastNum += 1;
+                        this.numbers.push(lastNum);
+                    },
+                    capture: function() {
+                        if(this.animal) {
+                            this.animals.push(this.animal);
+                            this.animal = null;
+                        }
+                    }
+                }
+            });
+        </script>
+    </body>
+</html>

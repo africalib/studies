@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <title>메모 앱</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" rel="stylesheet" />
+    <link href="app.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="app" class="app">
+        <div class="head">
+            <span class="title">메모 앱</span>
+            <span class="list-btn" v-if="mode !== 'list'" v-on:click="mode = 'list'">&lt;</span>
+        </div>
+        <div class="body">
+            <div class="list" v-if="mode === 'list'">
+                <ul>
+                    <li v-for="m in memos" v-on:click="open(m.id)">{{ m.content }}</li>
+                </ul>
+            </div>
+            <div class="write" v-else>
+                <textarea v-model="memo.content"></textarea>
+                <button class="save-btn" type="button" v-on:click="save()" v-bind:class="{ 'full' : mode === 'write' }">저장</button>
+                <button class="remove-btn" type="button" v-on:click="remove()" v-if="mode === 'edit'">삭제</button>
+            </div>
+            <button class="add-btn" type="button" v-on:click="write()" v-if="mode === 'list'">+</button>
+        </div>
+    </div>
+    <script src="vue.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
