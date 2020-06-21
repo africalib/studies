@@ -1,14 +1,10 @@
-Vue.component('test-tag1', {
-    template: '<div>{{ beta }}</div>',
+Vue.component('num-btn', {
+    template: '<button v-on:click="number++">{{ number }}</button>',
     data: function() {
         return {
-            beta:2
+            number: 0
         }
     }
-});
-
-Vue.component('test-tag2', {
-    template: '<div>aaa</div>'
 });
 
 new Vue({
