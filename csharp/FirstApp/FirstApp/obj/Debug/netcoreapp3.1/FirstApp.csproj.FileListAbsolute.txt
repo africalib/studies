@@ -1,0 +1,13 @@
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csprojAssemblyReference.cache
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+C:\J\github\repositories\study\csharp\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache

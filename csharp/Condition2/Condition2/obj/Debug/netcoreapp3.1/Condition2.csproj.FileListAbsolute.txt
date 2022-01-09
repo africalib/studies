@@ -1,0 +1,13 @@
+C:\J\github\repositories\study\csharp\Condition2\Condition2\bin\Debug\netcoreapp3.1\Condition2.exe
+C:\J\github\repositories\study\csharp\Condition2\Condition2\bin\Debug\netcoreapp3.1\Condition2.deps.json
+C:\J\github\repositories\study\csharp\Condition2\Condition2\bin\Debug\netcoreapp3.1\Condition2.runtimeconfig.json
+C:\J\github\repositories\study\csharp\Condition2\Condition2\bin\Debug\netcoreapp3.1\Condition2.runtimeconfig.dev.json
+C:\J\github\repositories\study\csharp\Condition2\Condition2\bin\Debug\netcoreapp3.1\Condition2.dll
+C:\J\github\repositories\study\csharp\Condition2\Condition2\bin\Debug\netcoreapp3.1\Condition2.pdb
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.csprojAssemblyReference.cache
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.AssemblyInfoInputs.cache
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.AssemblyInfo.cs
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.csproj.CoreCompileInputs.cache
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.dll
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.pdb
+C:\J\github\repositories\study\csharp\Condition2\Condition2\obj\Debug\netcoreapp3.1\Condition2.genruntimeconfig.cache

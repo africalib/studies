@@ -1,0 +1,13 @@
+C:\J\github\repositories\study\csharp\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.exe
+C:\J\github\repositories\study\csharp\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.deps.json
+C:\J\github\repositories\study\csharp\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.json
+C:\J\github\repositories\study\csharp\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.dev.json
+C:\J\github\repositories\study\csharp\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.dll
+C:\J\github\repositories\study\csharp\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.pdb
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.csprojAssemblyReference.cache
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfoInputs.cache
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfo.cs
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.CoreCompileInputs.cache
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.dll
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.pdb
+C:\J\github\repositories\study\csharp\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.genruntimeconfig.cache

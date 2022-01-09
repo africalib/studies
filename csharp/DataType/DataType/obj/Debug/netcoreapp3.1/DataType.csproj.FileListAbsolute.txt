@@ -1,0 +1,13 @@
+C:\J\github\repositories\study\csharp\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+C:\J\github\repositories\study\csharp\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+C:\J\github\repositories\study\csharp\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+C:\J\github\repositories\study\csharp\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+C:\J\github\repositories\study\csharp\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+C:\J\github\repositories\study\csharp\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csprojAssemblyReference.cache
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.CoreCompileInputs.cache
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.pdb
+C:\J\github\repositories\study\csharp\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.genruntimeconfig.cache

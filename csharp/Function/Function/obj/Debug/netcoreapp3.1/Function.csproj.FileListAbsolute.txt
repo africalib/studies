@@ -1,0 +1,13 @@
+C:\J\github\repositories\studies\csharp\Function\Function\bin\Debug\netcoreapp3.1\Function.exe
+C:\J\github\repositories\studies\csharp\Function\Function\bin\Debug\netcoreapp3.1\Function.deps.json
+C:\J\github\repositories\studies\csharp\Function\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.json
+C:\J\github\repositories\studies\csharp\Function\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.dev.json
+C:\J\github\repositories\studies\csharp\Function\Function\bin\Debug\netcoreapp3.1\Function.dll
+C:\J\github\repositories\studies\csharp\Function\Function\bin\Debug\netcoreapp3.1\Function.pdb
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.csprojAssemblyReference.cache
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfoInputs.cache
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfo.cs
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.csproj.CoreCompileInputs.cache
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.dll
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.pdb
+C:\J\github\repositories\studies\csharp\Function\Function\obj\Debug\netcoreapp3.1\Function.genruntimeconfig.cache
