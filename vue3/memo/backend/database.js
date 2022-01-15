@@ -15,11 +15,11 @@ module.exports = {
                     conn.query(query, params)
                         .then((rows) => {
                             resolve(rows);
-                            conn.end();
+                            conn.end(); // (필수) connection 종료
                         })
                         .catch(err => {
                             console.log(err);
-                            conn.end();
+                            conn.end(); // (필수) connection 종료
                             reject(err);
                         })
 
