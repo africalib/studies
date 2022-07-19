@@ -42,7 +42,9 @@ export default {
         sessionStorage.setItem("id", res.data);
         router.push({path: "/"});
         window.alert("로그인하였습니다.");
-      })
+      }).catch(() => {
+        window.alert("로그인 정보가 존재하지 않습니다..");
+      });
     }
 
     return {state, submit}
@@ -57,7 +59,7 @@ export default {
 }
 
 .form-signin .form-floating:focus-within {
-  z-index: 2;
+  z-index: 2
 }
 
 .form-signin input[type="email"] {
