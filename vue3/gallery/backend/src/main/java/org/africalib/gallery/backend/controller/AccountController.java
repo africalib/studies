@@ -48,6 +48,16 @@ public class AccountController {
         throw new ResponseStatusException(HttpStatus.NOT_FOUND);
     }
 
+    @PostMapping("/api/account/logout")
+    public ResponseEntity logout(HttpServletResponse res) {
+        Cookie cookie = new Cookie("token", null);
+        cookie.setPath("/");
+        cookie.setMaxAge(0);
+
+        res.addCookie(cookie);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
+
     @GetMapping("/api/account/check")
     public ResponseEntity check(@CookieValue(value = "token", required = false) String token) {
         Claims claims = jwtService.getClaims(token);
